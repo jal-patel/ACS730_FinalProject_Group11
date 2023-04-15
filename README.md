@@ -1,5 +1,6 @@
 
 
+
 # ACS730_FinalProject_Group11
 
 **Team 11**
@@ -50,3 +51,8 @@ ssh-keygen -t rsa -f "bastion_key"
 ___
 > Since we are using the load balancer, we will check that even after if we terminate any of the instance out of the multiple instances we created, the load will shift to the another remaining instances and website will work flawlessly.
 So now we have terminated one of the instances and then open the IP of another instance in web browser and we are able to see the web page with the group member names and images uploaded to the s3 bucket.
+
+***You can also access submission video by cicking on this link: [ ACS Project Video Submission Link ](https://seneca-my.sharepoint.com/:v:/r/personal/vssahoo_myseneca_ca/Documents/Recording-20230414_200803.webm?csf=1&web=1&e=2lVLdX)***
+
+> Thanks
+___
